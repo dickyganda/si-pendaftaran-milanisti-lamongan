@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(255,255,255);
+}
+ 
+a {
+  text-decoration: underline;
+  color: rgb(0,51,255);
+}
+ 
+#sidebar > .iklan {
+  display: none;
+}
+ 
+#content {
+  float: none;
+  font-family: serif;
+  font-size: 12pt;
+  width:auto;
+}
+ 
+#navigasi {
+  display: none;
+}
